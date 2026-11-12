@@ -1,0 +1,3 @@
+# Organizations to map, one per line
+org-a
+org-b
